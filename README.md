@@ -1,2 +1,1 @@
-# my-fist-projest
-mef  vd
+# About my first project on GitHub
